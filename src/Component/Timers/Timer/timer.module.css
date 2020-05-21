@@ -1,0 +1,17 @@
+.minute,
+.second,
+.milis {
+  border: 3px solid transparent;
+}
+.minute {
+  border-color: yellowgreen;
+  color: yellowgreen;
+}
+.second {
+  border-color: turquoise;
+  color: turquoise;
+}
+.milis {
+  border-color: violet;
+  color: violet;
+}
